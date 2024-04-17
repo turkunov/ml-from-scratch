@@ -28,6 +28,8 @@ MANIFEST
 
 # extra local propreitary material
 *.pdf
+*.html
+*.mhtml
 *.docx
 
 # PyInstaller
