@@ -7,4 +7,4 @@ This repository showcases my learning journey in the world of DS and ML. It is a
 - linalg (linear algebra concepts: svd)
 
 
-###### <i>**friendly p.s.**</i> Imho it is the best way to understand and adopt complex mathematical concepts, that is through not only learning the theory but also coding them themselves, just like I did here. Thus I strongly encourage you to make such a repository yourself, because it **really** does help wrap your head around stay competitive.
+###### <i>**friendly p.s.**</i> Imho it is the best way to understand and adopt complex mathematical concepts, that is through not only learning the theory but also coding them themselves, just like I did here. Thus I strongly encourage you to make such a repository yourself, because it **really** does help wrap your head around what is left untouched at universities and stay competitive as a DS or MLE.
