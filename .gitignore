@@ -29,6 +29,7 @@ MANIFEST
 # extra local propreitary material
 *.pdf
 *.html
+dl/data/recsys/
 *.mhtml
 *.docx
 *.url
