@@ -30,8 +30,10 @@ MANIFEST
 *.pdf
 *.html
 dl/data/recsys/
+dl/data/vision/
 *.mhtml
 *.docx
+dl/wandb/
 *.url
 
 # PyInstaller
