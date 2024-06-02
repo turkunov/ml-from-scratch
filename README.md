@@ -5,6 +5,6 @@ This repository showcases my learning journey in the world of DS and ML. It is a
 - classic ML (supervised and unsupervised)
 - dl (different DL architectures in PyTorch)
 - ds (A/B testing: frequentist and bayesian approaches)
-- linalg (linear algebra concepts: svd, pca)
+- linalg (linear algebra concepts: svd, pca, fft (and everything signal-related), t-SNE)
 
 Tech stack: pytorch, torchvision, polars, wandb, scikit-learn, numpy, scipy, plotly
